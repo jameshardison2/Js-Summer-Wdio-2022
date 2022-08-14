@@ -1,6 +1,6 @@
 
 /*
-1. Test git push commends
+1. Test git push commands
 */
 
 
